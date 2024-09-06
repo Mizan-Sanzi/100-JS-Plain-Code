@@ -28,5 +28,5 @@ function addBill(bill1, bill2){
 const bill = addBill(150, 250);
 console.log(bill);
 
-## And Many More Code Contains the plainCode.js file
+## ...And the plainCode.js file Contains Many More Codes 
 
